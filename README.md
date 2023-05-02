@@ -177,6 +177,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 Developed by: SHANKAR S.S
 Register Number: 212221240052
 ```
+```
 #include "main.h"
 #include "lcd.h"
 void SystemClock_Config(void);
@@ -198,16 +199,18 @@ int main(void)
     	  	  Lcd_string(&lcd,"SHANKAR");
   }
 }
+
 ```
 
 
-
-
 ## Output screen shots of proteus  :
+
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
+ ![WhatsApp Image 2023-05-02 at 8 26 39 AM](https://user-images.githubusercontent.com/93978702/235588659-a2d25d95-daff-4763-a05e-341e35f040ee.jpeg)
+
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
